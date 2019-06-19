@@ -1,0 +1,2 @@
+# mapHTMLEntitiesToJsUnicode
+dumb repo hahaha
